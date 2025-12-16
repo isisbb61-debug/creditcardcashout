@@ -346,3 +346,6 @@ li {
   }
 
   .main-n
+.main-nav.nav-open {
+  display: block;
+}
