@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 메인 -->
+  <url>
+    <loc>https://creditcardcashout.pages.dev/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- 하부 페이지 -->
+  <url>
+    <loc>https://creditcardcashout.pages.dev/credit-card-cash/legal/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://creditcardcashout.pages.dev/credit-card-cash/methods/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://creditcardcashout.pages.dev/credit-card-cash/risks/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://creditcardcashout.pages.dev/credit-card-cash/fees/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://creditcardcashout.pages.dev/credit-card-cash/alternatives/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://creditcardcashout.pages.dev/credit-card-cash/faq/</loc>
+    <priority>0.60</priority>
+  </url>
+
+</urlset>
